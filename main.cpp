@@ -7,7 +7,7 @@ using namespace all;
 int main() {
   cout << a << endl;
   cout << b << endl;
-  using dun; 
+  using dun::foo; 
   foo();
  return 0;
 }
